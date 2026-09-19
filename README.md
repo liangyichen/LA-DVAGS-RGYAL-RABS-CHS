@@ -105,7 +105,7 @@ Francke 的相关研究是20世纪早期西方学者研究拉达克历史的重�
 
 GitHub 的版本历史用于记录本译稿的公开版本、修改历史及文件内容变化。
 
-如果本项目同时在 Zenodo 等学术开放存储平台建立正式存档，则相应版本的 DOI 将在此处列出：
+如果本项目同时在 Zenodo 等学术开放存储平台建立正式存档：
 
 **DOI:** [https://doi.org/10.5281/zenodo.22808721](https://doi.org/10.5281/zenodo.22808721)
 
@@ -115,11 +115,11 @@ GitHub 的版本历史用于记录本译稿的公开版本、修改历史及文�
 
 推荐引用格式：
 
-> Francke, A. H. *La-dvags-rgyal-rabs / Ladakh Annals*. Chinese translation by Yichen Liang (梁逸晨), Version 1.0, 2026. DOI (https://doi.org/10.5281/zenodo.22808721)
+> Francke, A. H. *La-dvags-rgyal-rabs / Ladakh Annals*. Chinese translation by Yichen Liang (梁逸晨), Version 1.0, 2026. Github (https://github.com/liangyichen/LA-DVAGS-RGYAL-RABS-CHS)
 
 中文引用可写为：
 
-> A. H. Francke：《拉达克王统记》（La-dvags-rgyal-rabs / Ladakh Annals），梁逸晨译，v1.0，2026，DOI (https://doi.org/10.5281/zenodo.22808721)
+> A. H. Francke：《拉达克王统记》（La-dvags-rgyal-rabs / Ladakh Annals），梁逸晨译，v1.0，2026，Github (https://github.com/liangyichen/LA-DVAGS-RGYAL-RABS-CHS)
 
 ---
 
